@@ -12,7 +12,6 @@ metadata:
     image.opencontainers.org/title: my-fin-app
     stack.appsody.dev/version: 0.2.10
   name: my-fin-app
-  namespace: my-fin-demo
 spec:
   applicationImage: dev.local/my-fin-app
   createKnativeService: false
